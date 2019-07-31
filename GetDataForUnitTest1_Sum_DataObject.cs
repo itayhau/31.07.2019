@@ -8,8 +8,8 @@ namespace TestDB
 {
     public class GetDataForUnitTest1_Sum_DataObject
     {
-        public int X { get; set; }
-        public int Y { get; set; }
-        public int SUM { get; set; }
+        public long X { get; set; }
+        public long Y { get; set; }
+        public long SUM { get; set; }
     }
 }
